@@ -1,13 +1,12 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.tweaksdev22.youtubenoads
+Version: 0.0.1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: TweaksDev22 <tweaksdev22@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: ./debians/
 Size: 854
 MD5sum: c87e1563e3f0a4b500a6006beee9fd36
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: YoutubeNoAds
-Author: tweaksdevs22 <tweaksdev22@gmail.com>
-Depiction: https://tweaksdev22.github.io/Repo/debians/
+Description: YouTube no ads , play sound and video background
+Author: TweaksDev22 <tweaksdev22@gmail.com>
+Depiction: https://tweaksdev22.github.io/Repo/deb/YoutubeNoAds

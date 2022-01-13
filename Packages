@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: TweaksDev22 <tweaksdev22@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: ./debians/
+Filename: ./debians/com.tweaksdev22.youtubenoads_0.0.1-1+debug_iphoneos-arm.deb
 Size: 854
 MD5sum: c87e1563e3f0a4b500a6006beee9fd36
 Description: YouTube no ads , play sound and video background

@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: TweaksDev22 <tweaksdev22@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: ./debians/com.tweaksdev22.youtubenoads_0.0.1-1+debug_iphoneos-arm.deb
+Filename: /debians/com.tweaksdev22.youtubenoads_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4642
 MD5sum: 25164a94e3d1718f094edfff1ddd9de2
 SHA1: 23e68696cb8f31d3cc67701461e1b536d13617af

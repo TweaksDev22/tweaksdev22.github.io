@@ -6,7 +6,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: c87e1563e3f0a4b500a6006beee9fd36
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: YoutubeNoAds
 Author: Reposi3 <reposithree@gmail.com>

@@ -93,3 +93,19 @@ Section: Tweaks
 Description: Your Device Your Way!
 Author: mostafa89
 Name: 1ONE
+
+Package: org.mr.1one
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: TweaksDev22
+Installed-Size: 5800
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.0), com.muirey03.libimagepicker
+Filename: /org.mr.1one_1.3.2.deb
+Size: 3137396
+MD5sum: 0dcb8ff3a3a99347749d874f1620087c
+SHA1: 20d65a12682b6f2797bacf21da4e888a51790652
+SHA256: 5bbab54f12c1baa62bae1b21cc685be4d29549cbae4d7014c4dcbe170ff4f71a
+Section: Tweaks
+Description: Your Device Your Way!
+Author: mostafa89
+Name: 1ONE

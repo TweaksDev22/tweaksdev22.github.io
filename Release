@@ -1,8 +1,8 @@
 Origin: TweaksDev22
 Label: TweaksDev22
 Suite: stable
-Version: 1.0
-Codename: cydia-ios
+Version: 3.0
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: TweaksDev22 - a Cydia Repo

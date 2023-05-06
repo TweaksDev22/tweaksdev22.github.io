@@ -1,8 +1,8 @@
 Origin: TweaksDev22
 Label: TweaksDev22
 Suite: stable
-Version: 2.0
-Codename: ios
-Architectures: iphoneos-arm64
+Version: 1.0
+Codename: TweaksDev22
+Architectures: iphoneos-arm64 iphoneos-arm
 Components: main
-Description: TweaksDev22 - a Cydia Repo
+Description: Tweaks from TweaksDev22

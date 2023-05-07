@@ -16,7 +16,7 @@ Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 11.0 - 15.x   | :white_check_mark: |
+| 14.0 - 15.x   | :white_check_mark: |
 
 
 

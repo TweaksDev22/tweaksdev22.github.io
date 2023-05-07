@@ -1,12 +1,10 @@
-# p2kdev.github.io
+# tweaksdev22.github.io
 Welcome to my Github Website!
 
 &nbsp;
 
-Email - p2kdev@gmail.com
+Email - tweaksdev22@gmail.com
 
-Reddit - [/u/p2kdev](https://www.reddit.com/user/imkpatil/)
+Reddit - [/r/TweaksDev22/]([https://www.reddit.com/r/TweaksDev22/])
 
-Twitter - [@p2kdev](https://twitter.com/p2kdev)
 
-Paypal - [Donate](https://paypal.me/borkarprajakta/5)

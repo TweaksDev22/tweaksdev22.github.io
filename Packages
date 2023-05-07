@@ -1,0 +1,147 @@
+Package: com.hackyouriphone.debup
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: dpkg-perl, git
+Filename: ./debs/com.hackyouriphone.debup_1.0.0_iphoneos-arm64.deb
+Size: 3076
+MD5sum: f6c29cb21105de8b2700b06df96b76d3
+SHA1: 302e58f27a05ba2c2e18fd4c09fdd23129f62d80
+SHA256: 666e014d58d53a75b70a6a1e0299a37fc0859dfd532fb237f45c26a3d18daa5d
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=debup
+Description: A command line for developers to manage and upload deb packages to cydia repo (Github cydia repo) with a single click.
+Author: Moose <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=debup
+Name: DebUp
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=debup
+
+Package: com.spark.hidebarx
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.hidebarx_0.0.4_iphoneos-arm64.deb
+Size: 4252
+MD5sum: 7c55e6b88092b7c77623b0255b9945c9
+SHA1: 8102682faa6db8d50c9d966c652278d9d8ef620c
+SHA256: 7f9020f8fc0d086c0b7e387c2a7cce43920b5610b95b94a0dc9615d915512457
+Section: Tweaks
+Description: Hides the iPhone X home bar - compatible with VolumeBarX
+Author: Spark
+Name: HideBarX [Public]
+Removes: com.spark.HidebarX
+
+Package: com.tomaszpoliszuk.applibrarydisabler
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 176
+Depends: firmware (>= 14.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | firmware (>= 15.0)
+Conflicts: com.tomaszpoliszuk.applibraryenabler
+Filename: ./debs/com.tomaszpoliszuk.applibrarydisabler_1.1_iphoneos-arm64.deb
+Size: 3374
+MD5sum: 80369619ff7a18b3884f3a1fd788c236
+SHA1: 2e77e0991fe4aa956f442633f328a2e46da2b1ea
+SHA256: 15c8c4dc04a3cfd81f6232aaefee7eadc93cb63ae8c20cbee76f6cc688dd1b47
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Description: Turn off App Library
+Tag: purpose::extension
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Dev: tomaszpoliszuk
+Name: App Library Disabler
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: dev.ayden.ios.lib.sys.aurora
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/dev.ayden.ios.lib.sys.aurora_1.0.3_iphoneos-arm64.deb
+Size: 12644
+MD5sum: f2098a4a3015114d18fddde80467f088
+SHA1: d3a906720a9975833ea0bc13fb32ecaeb4a0a7ee
+SHA256: 7d39f38890f2eede001019913bc5a2ceb08b1c110a0248ebb66bf73df0bb59c0
+Section: Development
+Description: Specialized out-of-process weather utility library.
+Tag: role::developer
+Author: Ayden Panhuyzen
+Name: libaurora
+
+Package: me.lau.atria
+Version: 1.3.3-5
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 878
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/atria_1.3.3-5.deb
+Size: 271862
+MD5sum: f56fab3cc3a024bb0ae07f85e1d268c3
+SHA1: 8a21786e3e4be38ddd34900f91e19ca2242b6172
+SHA256: 1f6eb96658142cf5b41e88097ff4f376542b87b95fb23a71d77f530a5edf5554
+Section: Tweaks
+Description: A proper homescreen layout editor for iOS 13-15
+Author: ren7995
+Name: Atria
+
+Package: me.nepeta.axon
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Installed-Size: 584
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_1.4_iphoneos-arm64.deb
+Size: 172334
+MD5sum: e03af2d6c10ae80e73fd7f216be253a7
+SHA1: 77c22038de14a026b35b5cfb197c327229c5a59b
+SHA256: 6da4c683493b6d16fde278f1b08c0cc55a7cfaefac7bfb91d5ab89d7578d5ecf
+Section: Tweaks
+Description: Priority Hub for iOS 11 and 12
+Author: Nepeta & Baw Appie
+Name: Axon
+
+Package: repo.dpkghub.jellyfish
+Version: 1.6.0.1k
+Architecture: iphoneos-arm64
+Maintainer: DPKGHUB <admin@dpkghub.com>
+Depends: firmware (>=13.0),  mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm
+Filename: ./debs/repo.dpkghub.jellyfish_1.6.0.1k_iphoneos-arm64.deb
+Size: 83524
+MD5sum: 23aa313ed9287fc4b462cfd5d3df79ab
+SHA1: 79e45a92993cdb52cd323e317010d8f7b5f08346
+SHA256: c9ecbcae7a6e766cb37dd7d7b47f83e47a3e325fa3e226f394cc5684d3f27e5e
+Section: Tweaks
+Homepage: https://repo.dpkghub.com
+Description: Modernize your Lock screen. — Supports iOS 13.0 to 14.3.
+Depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.jellyfish.html
+Icon: https://repo.dpkghub.com/assets/repo.dpkghub.jellyfish/icon.png
+Moderndepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.jellyfish.json
+Name: Jellyfish
+Sileodepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.jellyfish.json
+Tags: compatible_min::ios13.0, compatible_max::ios14.5
+
+Package: repo.tweaksdev22.jellyfish
+Version: 1.6.0.1k
+Architecture: iphoneos-arm64
+Maintainer: TweaksDev22<tweaksdev22@gmail.com>
+Depends: firmware (>=13.0),  mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm
+Filename: ./debs/jellyfish.deb
+Size: 65680
+MD5sum: 44bae56aec1e4506f26263f54e71b934
+SHA1: cd08343848e96bd7398eff373757dc7d1e61c1f3
+SHA256: b1850cef0ce14d104b22ff8e030c8da2ac1e473a4e8d800dc60cb1c8e1e90899
+Section: Tweaks
+Homepage: https://tweaksdev22.github.io
+Description: To install Jellyfish tweak you need need install these tweaks (libaurora ,Alderis Color Picker (from https://addiezone.github.io/) ,NewTerm beta
+ Filza)then reboot your device  using method [RebootUserSpace], you will  not get errors  and  tweak  will show up in settings but  not working you need  do some commands  using  Newterm so check this  post  https://www.reddit.com/r/jailbreak/comments/138d97m/tutorial_how_to_install_jellyfish_on_dopamine/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1)finally we thanks[lnoriAizawa,MrCryptiic] to helping  us. — Supports iOS 13.0 to 15.x."'
+Name: Jellyfish rootless
+Tags: compatible_min::ios13.0, compatible_max::ios14.5
+

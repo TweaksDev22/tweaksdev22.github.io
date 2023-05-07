@@ -17,3 +17,14 @@ Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 | Version | Supported          |
 | ------- | ------------------ |
 | 11.0 - 15.x   | :white_check_mark: |
+
+
+
+
+
+
+## This type of jailbreak we support
+
+| Jailbreak | Supported          |
+| ------- | ------------------ |
+|Fugu15 - Dopamine   | :white_check_mark: |

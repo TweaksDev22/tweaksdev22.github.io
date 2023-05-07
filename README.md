@@ -5,6 +5,6 @@ Welcome to my Github Website!
 
 Email - tweaksdev22@gmail.com
 
-Reddit - [/r/TweaksDev22/]([https://www.reddit.com/r/TweaksDev22/])
+Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 
 

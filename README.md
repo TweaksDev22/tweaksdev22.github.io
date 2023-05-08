@@ -33,3 +33,5 @@ We support now installing apps without pc and jb check link below !
 | Jailbreak | Supported          |
 | ------- | ------------------ |
 |Fugu15 - Dopamine   | :white_check_mark: |
+-----------
+![](https://komarev.com/ghpvc/?username=tweaksdev22.github.io&color=blue)

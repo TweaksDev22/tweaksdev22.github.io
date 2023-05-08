@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/unc0ver_20230508/unc0ver.ipa</string>
+<string> https://archive.org/download/rocket-dleasy-277.1/Rocket%20%F0%9F%9A%80%20%26%20DLEasy%20%28277.1%29.ipa </string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,19 +27,19 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>Rocket 🚀 & DLEasy</string>
+<string>Instagram</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.science.xnu.undecimus.ipa--aapps20230511</string>
+<string>com.burbn.instagram.ipa--aapps20230511</string>
 <key>bundle-version</key>
 <string>1</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>Rocket 🚀 & DLEasy</string>
+<string>Instagram</string>
 </dict>
 </dict>
 </array>

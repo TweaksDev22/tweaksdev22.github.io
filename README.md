@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=TweaksDev22&color=blue)
 
 Welcome to my repo!
 ---------------------
@@ -34,4 +35,3 @@ We support now installing apps without pc and jb check link below !
 | ------- | ------------------ |
 |Fugu15 - Dopamine   | :white_check_mark: |
 -----------
-![](https://komarev.com/ghpvc/?username=TweaksDev22&color=blue)

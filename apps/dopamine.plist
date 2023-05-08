@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>dopamine_2023050</string>
+<string>dopamine</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -39,7 +39,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>dopamine_2023050</string>
+<string>dopamine</string>
 </dict>
 </dict>
 </array>

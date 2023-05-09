@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/locsim-v1-3-1/locsim-v1-3-1.ipa</string>
+<string>https://archive.org/download/anime-cloud_202305/Anime%20Cloud.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,19 +27,19 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>locsim</string>
+<string>Anime Cloud</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.mika.LocationSimulation--aapps20230510</string>
+<string>com.animecloud.rm.ipa</string>
 <key>bundle-version</key>
 <string>1</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>locsim</string>
+<string>Anime Cloud</string>
 </dict>
 </dict>
 </array>

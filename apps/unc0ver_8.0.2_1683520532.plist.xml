@@ -33,7 +33,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.science.xnu.undecimus.ipa--aapps20230509</string>
+<string>com.science.xnu.undecimus.ipa</string>
 <key>bundle-version</key>
 <string>1</string>
 <key>kind</key>

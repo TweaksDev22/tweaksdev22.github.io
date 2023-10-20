@@ -10,9 +10,6 @@ Email - tweaksdev22@gmail.com
 Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 
 ------------------
-We support now installing apps without pc and jb check link below !
-
-[TweaksDev22 Apps](https://tweaksdev22.github.io/apps/)
 
 -------------------
 
@@ -22,7 +19,7 @@ We support now installing apps without pc and jb check link below !
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 14.0 - 15.x   | :white_check_mark: |
+|  15.x   | :white_check_mark: |
 
 
 
@@ -33,5 +30,5 @@ We support now installing apps without pc and jb check link below !
 
 | Jailbreak | Supported          |
 | ------- | ------------------ |
-|Fugu15 - Dopamine   | :white_check_mark: |
+| Dopamine roothide  | :white_check_mark: |
 -----------

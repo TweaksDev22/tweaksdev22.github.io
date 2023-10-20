@@ -11,8 +11,6 @@ Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 
 ------------------
 
--------------------
-
 ## Supported Versions
 
 

@@ -35,8 +35,8 @@
     "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
 
     "tint": "#55c6d3",
-    "works_min": "15.0",
-    "works_max": "15.5",
+    "works_min": "",
+    "works_max": "",
     "featured": "true",
     "source": "https://github.com/Shugabuga/Silica",
     "changelog": [

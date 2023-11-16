@@ -1,4 +1,4 @@
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Package: 
 Name: 
 Version: 
@@ -8,7 +8,7 @@ ModernDepiction: https:///depiction/native/.json
 Icon: https:///assets//icon.png
 Homepage: https://tweaksdev22.github.io/
 Section: Themes
-Tags: compatible_min::ios15.0, compatible_max::ios15.5
+Tags: compatible_min::ios8.0, compatible_max::ios13.0
 Author: TweaksDev22 <Tweaksdev22@gmail.com>
 Maintainer: TweaksDev22 <Tweaksdev22@gmail.com>
 Sponsor: TweaksDev22 <Tweaksdev22@gmail.com>

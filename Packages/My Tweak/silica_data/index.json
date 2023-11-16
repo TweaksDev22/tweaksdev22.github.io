@@ -32,7 +32,7 @@
     "conflicts": "",
     "replaces": "",
     "provides": "",
-    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
+    "other_control": [""],
 
     "tint": "#55c6d3",
     "works_min": "14.0",
@@ -42,7 +42,7 @@
     "changelog": [
         {
             "version": "0.0.7",
-            "changes": "Thank you for participating in the Elementary beta! All future updates will be given a descriptive changelog with a list of changes."
+            "changes": ""
         }
     ]
 }
@@ -80,7 +80,7 @@
     "conflicts": "",
     "replaces": "",
     "provides": "",
-    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
+    "other_control": [""],
 
     "tint": "#55c6d3",
     "works_min": "14.0",
@@ -90,7 +90,7 @@
     "changelog": [
         {
             "version": "1.8.1",
-            "changes": "Thank you for participating in the Elementary beta! All future updates will be given a descriptive changelog with a list of changes."
+            "changes": ""
         }
     ]
 }
@@ -128,7 +128,7 @@
     "conflicts": "",
     "replaces": "",
     "provides": "",
-    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
+    "other_control": [""],
 
     "tint": "#55c6d3",
     "works_min": "14.0",
@@ -138,7 +138,7 @@
     "changelog": [
         {
             "version": "1.0.0",
-            "changes": "Thank you for participating in the Elementary beta! All future updates will be given a descriptive changelog with a list of changes."
+            "changes": ""
         }
     ]
 }

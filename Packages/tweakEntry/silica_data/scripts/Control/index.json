@@ -1,0 +1,48 @@
+{
+    "bundle_id": "co.shuga.elementary-lite",
+    "name": "Elementary Lite",
+    "version": "1.1.2-beta",
+    "tagline": "A simplistic, glyph-based theme.",
+    "homepage": "https://tweaksdev22.github.io/",
+    "developer": {
+        "name": "TweaksDev22",
+        "email": "Tweaksdev22@gmail.com"
+    },
+    "maintainer": {
+        "name": "TweaksDev22",
+        "email": "Tweaksdev22@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/HeyItsShuga"
+        },
+        {
+            "name": "Website",
+            "url": "https://tweaksdev22.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "TweaksDev22",
+        "email": "Tweaksdev22@gmail.com"
+    },
+    "section": "Themes",
+    "pre_dependencies": "",
+    "dependencies": "com.anemonetheming.anemone",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
+
+    "tint": "#55c6d3",
+    "works_min": "8.0",
+    "works_max": "13.0",
+    "featured": "true",
+    "source": "https://github.com/Shugabuga/Silica",
+    "changelog": [
+        {
+            "version": "1.1.2-beta",
+            "changes": "Thank you for participating in the Elementary beta! All future updates will be given a descriptive changelog with a list of changes."
+        }
+    ]
+}

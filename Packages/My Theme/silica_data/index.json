@@ -1,8 +1,8 @@
 {
-    "bundle_id": "lilliana.ishtar",
-    "name": "Ishtar (rootHide)",
-    "version": "0.0.7",
-    "tagline": "IOSGODS VIP cheats for free",
+    "bundle_id": "",
+    "name": "",
+    "version": "",
+    "tagline": "",
     "homepage": "https://tweaksdev22.github.io/",
     "developer": {
         "name": "TweaksDev22",
@@ -41,7 +41,7 @@
     "source": "https://tweaksdev22.github.io/",
     "changelog": [
         {
-            "version": "0.0.7",
+            "version": "",
             "changes": ""
         }
     ]

@@ -1,0 +1,16 @@
+Architecture: iphoneos-arm
+Package: lilliana.ishtar
+Name: Ishtar (rootHide)
+Version: 0.0.7
+Depiction: https:///depiction/web/.html
+SileoDepiction: https:///depiction/native/.json
+ModernDepiction: https:///depiction/native/.json
+Icon: https:///assets//icon.png
+Homepage: https://tweaksdev22.github.io/
+Section: Themes
+Tags: compatible_min::ios, compatible_max::ios
+Author: TweaksDev22 <tweaksdev22@gmail.com>
+Maintainer: TweaksDev22 <tweaksdev22@gmail.com>
+Sponsor: tweaksdev22 <tweaksdev22@gmail.com>
+Tag: role::enduser
+SomeOtherEntryToControl: True

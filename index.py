@@ -216,7 +216,6 @@ def main():
             DebianPackager.PushToGit()  # Push the repo to GitHub automatically.
     except Exception:
         pass
-    
     if __name__ == '__main__':
     DepictionGenerator = DepictionGenerator(version)
     PackageLister = PackageLister(version)

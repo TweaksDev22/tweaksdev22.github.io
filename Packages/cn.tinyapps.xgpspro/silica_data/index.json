@@ -33,7 +33,7 @@
     "conflicts": "",
     "replaces": "",
     "provides": "",
-    "other_control": [""],
+    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
 
     "tint": "#55c6d3",
     "works_min": "14.0",

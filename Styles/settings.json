@@ -1,0 +1,11 @@
+{
+    "name": "TweaksDev22",
+    "description": "This Repo for Tweaks and tools and Themes supporting [RootHide, Dopamine]",
+    "tint": "#090a14",
+    "cname": "tweaksdev22.github.io",
+    "maintainer": {
+        "name": "TweaksDev22",
+        "email": "tweaksdev22@gmail.com"
+    },
+    "automatic_git": "true"
+}

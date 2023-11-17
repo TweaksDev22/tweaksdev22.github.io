@@ -1,0 +1,15 @@
+Architecture: iphoneos-arm64e
+Package: 
+Name: 
+Version: 
+Depiction: https://tweaksdev22.github.io/depiction/web/.html
+SileoDepiction: https://tweaksdev22.github.io/depiction/native/.json
+ModernDepiction: https://tweaksdev22.github.io/depiction/native/.json
+Icon: https://tweaksdev22.github.io/assets//icon.png
+Homepage: https://tweaksdev22.github.io/
+Section: Tweaks roothide
+Tags: compatible_min::ios14.0, compatible_max::ios15.5
+Author: TweaksDev22 <tweaksdev22@gmail.com>
+Maintainer: TweaksDev22 <tweaksdev22@gmail.com>
+Sponsor: tweaksdev22 <tweaksdev22@gmail.com>
+

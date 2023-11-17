@@ -1,0 +1,49 @@
+
+{
+    "bundle_id": "org.mr.icleanerprorl",
+    "name": "iCleaner Pro (Roothide)",
+    "version": "7.10.0k",
+    "tagline": "The first real iOS system cleaner & optimizer",
+    "homepage": "https://tweaksdev22.github.io/",
+    "developer": {
+        "name": "TweaksDev22",
+        "email": "tweaksdev22@gmail.com"
+    },
+    "maintainer": {
+        "name": "TweaksDev22",
+        "email": "tweaksdev22@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/r/TweaksDev22/"
+        },
+        {
+            "name": "Website",
+            "url": "https://tweaksdev22.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "tweaksdev22",
+        "email": "tweaksdev22@gmail.com"
+    },
+    "section": "Tweaks roothide",
+    "pre_dependencies": "",
+    "dependencies": "",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": [""],
+
+    "tint": "#55c6d3",
+    "works_min": "14.0",
+    "works_max": "15.5",
+    "featured": "true",
+    "source": "https://tweaksdev22.github.io/",
+    "changelog": [
+        {
+            "version": "7.10.0k",
+            "changes": ""
+        }
+    ]
+}

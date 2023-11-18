@@ -1,0 +1,8 @@
+Origin: TweaksDev22
+Label: TweaksDev22
+Suite: stable
+Version: 1.0
+Codename: TweaksDev22
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Tweaks from TweaksDev22

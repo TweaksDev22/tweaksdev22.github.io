@@ -1,0 +1,13 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"url of banner image",
+         "title":"SpeedADS",
+         "package":"com.tweaksdev22.speedads",
+         "hideShadow":false
+      }
+   ]
+}

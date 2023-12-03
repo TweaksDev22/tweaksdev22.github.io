@@ -5,6 +5,8 @@
     {
       "tabname": "Details",
       "class": "DepictionStackView",
+      "backgroundColor": "lightbrown", // Set your desired background color here
+      "tintColor": "red", // Set text color to red
       "views": [
         {
           "class": "DepictionHeaderView",
@@ -20,17 +22,54 @@
         },
         {
           "class": "DepictionVideoView",
-          "URL": "https://vimeo.com/890608654",
-          "width": 500,
-          "height": 280,
+          "URL": "https://m.youtube.com/shorts/YcSH_rwZHPY",
+          "width": 375, // Adjusted for iPhone screen width
+          "height": 667, // Adjusted for iPhone screen height
           "cornerRadius": 10,
           "autoplay": true,
           "loop": true
         },
         {
-          "class": "DepictionTableButtonView",
+          "class": "DepictionButtonView",
           "title": "Visit Website",
-          "action": "https://tweaksdev22.github.io/"
+          "action": "https://tweaksdev22.github.io"
+        },
+        {
+          "class": "DepictionButtonView",
+          "title": "Reddit",
+          "action": "https://www.reddit.com/r/TweaksDev22/"
+        },
+        {
+          "class": "DepictionButtonView",
+          "title": "Discord",
+          "action": "https://discord.gg/md5pYCDDba"
+        },
+        {
+          "class": "DepictionButtonView",
+          "title": "Roothide",
+          "action": "https://discord.gg/W4Jcjev7Sz"
+        },
+        {
+          "class": "DepictionSeparatorView" // Separator line
+        },
+        {
+          "class": "DepictionStackView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "Phone Compatibility:",
+              "fontSize": 20
+            },
+            {
+              "class": "DepictionSpacerView",
+              "spacing": 10
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "iPhone 13 pro",
+              "fontSize": 16
+            }
+          ]
         }
       ]
     }

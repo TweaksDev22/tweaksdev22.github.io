@@ -121,7 +121,7 @@
                     "text": "TweaksDev22",
                     "view": {
                         "class": "DepictionImageView",
-                        "URL": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/tweaksdev22.png",
+                        "URL": "",
                         "width": 80,
                         "height": 80,
                         "cornerRadius": 1,

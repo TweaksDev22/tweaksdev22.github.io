@@ -1,77 +1,135 @@
 {
-  "minVersion": "0.4",
-  "class": "DepictionTabView",
-  "tabs": [
-    {
-      "tabname": "Details",
-      "class": "DepictionStackView",
-      "backgroundColor": "lightbrown", 
-      "tintColor": "red", 
-      "views": [
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/tweaksdev22.png",
+    "tabs": [
         {
-          "class": "DepictionHeaderView",
-          "title": "SpeedADS"
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Join Our Discord!",
+                    "action": "https://discord.gg/md5pYCDDba",
+                    "openExternal": true,
+                    "tintColor": "#7289da"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/SpeedADS.gif"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "SpeedADs, Quickly skip in-game rewarded video ads. No need to wait 15 seconds or more, get your rewards immediately. Not all video ads can be skipped quickly.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "0.0.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "TweaksDev22"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweaks roothide"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Downloads",
+                    "text": "0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "iOS Versions",
+                    "text": "iOS 15.x"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 10
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "action": "https://tweaksdev22.github.io",
+                    "isLink": true,
+                    "yPadding": 4,
+                    "text": "TweaksDev22",
+                    "view": {
+                        "class": "DepictionImageView",
+                        "URL": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/tweaksdev22.png",
+                        "width": 80,
+                        "height": 80,
+                        "cornerRadius": 1,
+                        "alignment": 1,
+                        "accessibilityText": "TweaksDev22"
+                    }
+                }
+            ]
         },
         {
-          "class": "DepictionLabelView",
-          "text": "Version: 0.0.1"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "Quickly skip in-game rewarded video ads. No need to wait 15 seconds or more, get your rewards immediately. Not all video ads can be skipped quickly."
-        },
-        {
-          "class": "DepictionVideoView",
-          "URL": "https://m.youtube.com/shorts/YcSH_rwZHPY",
-          "width": 375, 
-          "height": 667, 
-          "cornerRadius": 10,
-          "autoplay": true,
-          "loop": true
-        },
-        {
-          "class": "DepictionButtonView",
-          "title": "Visit Website",
-          "action": "https://tweaksdev22.github.io"
-        },
-        {
-          "class": "DepictionButtonView",
-          "title": "Reddit",
-          "action": "https://www.reddit.com/r/TweaksDev22/"
-        },
-        {
-          "class": "DepictionButtonView",
-          "title": "Discord",
-          "action": "https://discord.gg/md5pYCDDba"
-        },
-        {
-          "class": "DepictionButtonView",
-          "title": "Roothide",
-          "action": "https://discord.gg/W4Jcjev7Sz"
-        },
-        {
-          "class": "DepictionSeparatorView" 
-        },
-        {
-          "class": "DepictionStackView",
-          "views": [
-            {
-              "class": "DepictionLabelView",
-              "text": "Phone Compatibility:",
-              "fontSize": 20
-            },
-            {
-              "class": "DepictionSpacerView",
-              "spacing": 10
-            },
-            {
-              "class": "DepictionLabelView",
-              "text": "iPhone 13 pro",
-              "fontSize": 16
-            }
-          ]
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial release!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 10
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "action": "https://tweaksdev22.github.io",
+                    "isLink": true,
+                    "yPadding": 4,
+                    "text": "TweaksDev22",
+                    "view": {
+                        "class": "DepictionImageView",
+                        "URL": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/tweaksdev22.png",
+                        "width": 80,
+                        "height": 80,
+                        "cornerRadius": 1,
+                        "alignment": 1,
+                        "accessibilityText": "TweaksDev22"
+                    }
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

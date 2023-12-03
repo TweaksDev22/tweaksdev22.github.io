@@ -4,7 +4,7 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/Alert.png",
+         "url":"https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/Alert%20.jpg",
          "title":"Alert",
          "package":"com.tweaksdev22.x",
          "hideShadow":false

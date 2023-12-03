@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "minVersion": "0.4",
-    "headerImage": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/tweaksdev22.png",
+    "headerImage": "https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/speedadsbanner.png",
     "tabs": [
         {
             "class": "DepictionStackView",

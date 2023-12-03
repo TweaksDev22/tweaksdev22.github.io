@@ -5,8 +5,8 @@
     {
       "tabname": "Details",
       "class": "DepictionStackView",
-      "backgroundColor": "lightbrown", // Set your desired background color here
-      "tintColor": "red", // Set text color to red
+      "backgroundColor": "lightbrown", 
+      "tintColor": "red", 
       "views": [
         {
           "class": "DepictionHeaderView",
@@ -23,8 +23,8 @@
         {
           "class": "DepictionVideoView",
           "URL": "https://m.youtube.com/shorts/YcSH_rwZHPY",
-          "width": 375, // Adjusted for iPhone screen width
-          "height": 667, // Adjusted for iPhone screen height
+          "width": 375, 
+          "height": 667, 
           "cornerRadius": 10,
           "autoplay": true,
           "loop": true
@@ -50,7 +50,7 @@
           "action": "https://discord.gg/W4Jcjev7Sz"
         },
         {
-          "class": "DepictionSeparatorView" // Separator line
+          "class": "DepictionSeparatorView" 
         },
         {
           "class": "DepictionStackView",

@@ -9,11 +9,6 @@
          "package":"com.tweaksdev22.x",
          "hideShadow":false
       },
-      {  
-         "url":"https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/speedadsbanner.png",
-         "title":"SpeedADS",
-         "package":"com.tweaksdev22.speedads",
-         "hideShadow":false
-      }
+     
    ]
 }

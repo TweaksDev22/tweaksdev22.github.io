@@ -29,4 +29,5 @@ Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 | Jailbreak | Supported          |
 | ------- | ------------------ |
 | Dopamine roothide  | :white_check_mark: |
+| Dopamine 2.0  | :white_check_mark: |
 -----------

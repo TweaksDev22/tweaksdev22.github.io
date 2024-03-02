@@ -4,7 +4,7 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://raw.githubusercontent.com/TweaksDev22/tweaksdev22.github.io/master/img/tweaksdev22.png",
+         "url":"https://tweaksdev22.github.io/img/icon.png",
          "title":"",
          "package":"com.tweaksdev22.x",
          "hideShadow":false

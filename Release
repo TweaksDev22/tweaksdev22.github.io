@@ -4,5 +4,5 @@ Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
-Components: main
+Components: master
 Description: TweaksDev22 - Explore the Best Tweaks and Themes

@@ -1,0 +1,135 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://tweaksdev22.github.io/img/tapme.jpg",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Join Our Discord!",
+                    "action": "https://discord.gg/Q67N6VFXnJ",
+                    "openExternal": true,
+                    "tintColor": "#7289da"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://tweaksdev22.github.io/img/3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Give sound to your icons and folders when you tap them , Convert and fixing it by TweaksDev22",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.3-6+debug"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "TweaksDev22"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Downloads",
+                    "text": ""
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "iOS Versions",
+                    "text": "15.x"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 10
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "action": "https://tweaksdev22.github.io",
+                    "isLink": true,
+                    "yPadding": 4,
+                    "text": "TweaksDev22",
+                    "view": {
+                        "class": "DepictionImageView",
+                        "URL": "https://tweaksdev22.github.io/img/icon.png",
+                        "width": 80,
+                        "height": 80,
+                        "cornerRadius": 1,
+                        "alignment": 1,
+                        "accessibilityText": "TweaksDev22"
+                    }
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial release!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 10
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "action": "https://tweaksdev22.github.io",
+                    "isLink": true,
+                    "yPadding": 4,
+                    "text": "TweaksDev22",
+                    "view": {
+                        "class": "DepictionImageView",
+                        "URL": "https://tweaksdev22.github.io/img/icon.png",
+                        "width": 80,
+                        "height": 80,
+                        "cornerRadius": 1,
+                        "alignment": 1,
+                        "accessibilityText": "TweaksDev22"
+                    }
+                }
+            ]
+        }
+    ]
+}

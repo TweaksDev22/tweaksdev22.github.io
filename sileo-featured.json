@@ -9,20 +9,11 @@
          "package":"com.tweaksdev22.x",
          "hideShadow":false
       },
-     
-   ]
-}
-{
-   "class":"FeaturedBannersView",
-   "itemSize":"{263, 148}",
-   "itemCornerRadius":10,
-   "banners":[  
       {  
          "url":"https://tweaksdev22.github.io/img/tapme.jpg",
          "title":"TapMe",
          "package":"com.alexpng.tapme",
          "hideShadow":false
       },
-     
    ]
 }

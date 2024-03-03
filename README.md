@@ -6,7 +6,6 @@ we bring new idea 💡 for developers Tweaks📱 or Themes 🗯 or Tools ⚒️ 
 &nbsp;
 
 Email - tweaksdev22@gmail.com
-
 Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 Discord - [Join our server](https://discord.gg/Q67N6VFXnJ)
 ------------------

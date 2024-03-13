@@ -15,5 +15,11 @@
          "package":"com.alexpng.tapme",
          "hideShadow":false
       },
+      {  
+         "url":"https://tweaksdev22.github.io/img/tapme.jpg",
+         "title":"PowerStatusEnhancer",
+         "package":"com.tweaksdev22.powerstatusenhancer",
+         "hideShadow":false
+      },
    ]
 }

@@ -49,11 +49,6 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "title": "Version",
-                    "text": "1.0.1"
-                },
-                {
-                    "class": "DepictionTableTextView",
                     "title": "Author",
                     "text": "TweaksDev22"
                 },

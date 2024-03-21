@@ -37,7 +37,29 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "PowerStatusEnhancer enhances the appearance and functionality of the battery indicator on iOS devices. Customize the colors of various battery components, including high, medium, low, and very low battery levels, as well as body, bolt, pin, and text colors. Choose whether to display the battery percentage and customize the font size and style of the percentage label, including italic and bold options. Preferences are dynamically updated and changes are applied promptly without the need for respring. Developed by TweaksDev22.",
+                    "markdown": ":rocket: **PowerStatusEnhancer** by TweaksDev22 :rocket:
+---------------------------------------------
+
+:electric_plug: **Transform Your iOS Battery Indicator** :electric_plug:
+
+**Why Settle for Ordinary When You Can Customize?**
+- :art: **Colors Galore**: Personalize battery levels with vibrant colors.
+  - High :battery: | Medium :yellow_circle: | Low :orange_circle: | Very Low :red_circle:
+  - Body, Bolt, Pin, Text :rainbow:
+  
+- :bar_chart: **See It Your Way**: Display battery percentage with flair.
+  - Font Size & Style :pen_fountain: (Italic, Bold)
+
+- :zap: **Instant Updates**: Preferences refresh instantly - no respring needed.
+
+**Developed with :sparkling_heart: by TweaksDev22**
+- Unleash creativity on your device's battery indicator.
+
+:eyes: **Stand Out from the Crowd**
+- PowerStatusEnhancer brings your device to life with unparalleled customization.
+
+---------------------------------------------
+:bulb: **Craft Your Unique iOS Experience Today** with PowerStatusEnhancer!.",
                     "useSpacing": true
                 },
                 {
@@ -61,11 +83,6 @@
                     "class": "DepictionTableTextView",
                     "title": "Section",
                     "text": "Tweaks"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Downloads",
-                    "text": ""
                 },
                 {
                     "class": "DepictionTableTextView",
